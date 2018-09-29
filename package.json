@@ -1,0 +1,14 @@
+{
+  "name": "air-down",
+  "version": "0.0.1",
+  "description": "轻量下载具",
+  "main": "index.js",
+  "repository": "https://github.com/ektx/airDown.git",
+  "author": "ektx <530675800@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.18.0",
+    "execa": "^1.0.0",
+    "inquirer": "^6.2.0"
+  }
+}
